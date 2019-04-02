@@ -61,7 +61,7 @@
         </plugins>
     </build>
 
-    <parent>
+    <!--<parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>9</version>
@@ -84,5 +84,5 @@
             <email>502624709@qq.com</email>
             <url>https://github.com/zhangquanli</url>
         </developer>
-    </developers>
+    </developers>-->
 </project>
